@@ -14,28 +14,17 @@
 
 
 # Geral
-- [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) 
-  - Dicas de Programação para iniciantes e conteúde de desenvolvimento
-- [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
-  - Conhecimentos gerais sobre os mais diversos conteúdos da tecnologia
-- [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
-  - Dia a dia de um programador e bate-papos sobre o futuro da tecnologia
-- [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) 
-  - Conteúdos sobre o dia a dia e a vida de um programador
-- [O Bruno Germano](https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg) 
-  - Live Coding e conceitos gerais
-- [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) 
-  - Tecnologia e Linguagens de Programação
-- [Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ) 
-  - Lives com profissionais e Linguagens de Programação
-- [Attekita Dev](https://www.youtube.com/c/AttekitaDev/featured) 
-  - Dicas e Conceitos para Devs
-- [balta.io](https://www.youtube.com/c/baltaio/videos) 
-  - Conceitos de .NET, DevOps, Front-End, etc.
-- [Fabio Akita](https://www.youtube.com/c/FabioAkita1990/featured) 
-  - Tecnologia no geral
-- [Guiminam](https://www.youtube.com/c/Guiminam/videos) 
-  - Conceitos e dicas para programadores
+- [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Dicas de Programação para iniciantes e conteúde de desenvolvimento
+- [Código Fonte TV](https://www.youtube.com/user/codigofontetv)- Conhecimentos gerais sobre os mais diversos conteúdos da tecnologia
+- [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)- Dia a dia de um programador e bate-papos sobre o futuro da tecnologia
+- [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Conteúdos sobre o dia a dia e a vida de um programador
+- [O Bruno Germano](https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg) - Live Coding e conceitos gerais
+- [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Tecnologia e Linguagens de Programação
+- [Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ) - Lives com profissionais e Linguagens de Programação
+- [Attekita Dev](https://www.youtube.com/c/AttekitaDev/featured) - Dicas e Conceitos para Devs
+- [balta.io](https://www.youtube.com/c/baltaio/videos) - Conceitos de .NET, DevOps, Front-End, etc.
+- [Fabio Akita](https://www.youtube.com/c/FabioAkita1990/featured) - Tecnologia no geral
+- [Guiminam](https://www.youtube.com/c/Guiminam/videos) - Conceitos e dicas para programadores
 
 # Linux
 - [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA) - Conceitos de Linux e Hardware
