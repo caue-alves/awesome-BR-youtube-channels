@@ -42,3 +42,6 @@
 - [Canaltech](https://www.youtube.com/channel/UC_bXJnsgwOqEPA_-6N6faKw) - Reviews de Produtos Eletrônicos
 - [TechTudo](https://www.youtube.com/channel/UC_bXJnsgwOqEPA_-6N6faKw) - Videogames, celulares e tecnologia no Geral
 - [Gesiel Taveira](https://www.youtube.com/user/GesielTaveira) - Reviews de Samartphones
+
+# Negógios e Agile Thinking
+- [Digital Job](https://www.youtube.com/channel/UC629vKGFPRc1rz6VDm6OZiQ) - Carreira e empreendendorismo
