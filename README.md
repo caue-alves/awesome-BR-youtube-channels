@@ -54,6 +54,7 @@
 - [DevPleno](https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww) - Javascipt e ReactJS
 - [BrazilJS](https://www.youtube.com/channel/UCnLdHOuue5i1O7TsH6oh07w) - mais diversos conteúdos sobre a linguagem Javascript
 - [Loiane Groner](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg) - AngularJS
+- [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Javascript e seus Frameworks
 
 # PHP
 - [Dias de Dev](https://www.youtube.com/channel/UCg1nJKjie4vb8FILBbv3F6A) - Conceitos e peculiaridades do PHP
