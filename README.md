@@ -55,6 +55,7 @@
 - [BrazilJS](https://www.youtube.com/channel/UCnLdHOuue5i1O7TsH6oh07w) - mais diversos conteúdos sobre a linguagem Javascript
 - [Loiane Groner](https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg) - AngularJS
 - [CollabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg) - Javascript e seus Frameworks
+- [Felipe Fialho](https://www.youtube.com/channel/UCHf-3DHd-VYn7HmddjfBj0A) - CSS
 
 # PHP
 - [Dias de Dev](https://www.youtube.com/channel/UCg1nJKjie4vb8FILBbv3F6A) - Conceitos e peculiaridades do PHP
