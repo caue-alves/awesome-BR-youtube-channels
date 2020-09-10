@@ -1,8 +1,8 @@
 # Awesome BR Youtube Channels  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-* [Geral](https://github.com/caue-alves/Awesome-YouTube-Channel#geral)
-* [Linux e Hardware](https://github.com/caue-alves/Awesome-YouTube-Channel#linux-e-hardware)
-* [Machine Leraning e Algoritmos](https://github.com/caue-alves/Awesome-YouTube-Channel#machine-leraning-e-algoritmos)
-* [Hacking](https://github.com/caue-alves/Awesome-YouTube-Channel#machine-leraning-e-algoritmos)
+* [Geral](#geral)
+* [Linux e Hardware](#linux)
+* [Machine Leraning e Algoritmos](#machine-leraning-e-algoritmos)
+* [Hacking](#machine-leraning-e-algoritmos)
 
 
 # Geral
