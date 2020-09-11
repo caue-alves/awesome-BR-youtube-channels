@@ -1,5 +1,6 @@
 # Awesome BR Youtube Channels  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
+
 [![Brazilian](https://img.shields.io/badge/Made%20By-Brazilians-brightgreen?style=for-the-badge&logo=appveyor?logo=data:img/png;https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png)](https://github.com/caue-alves/Awesome-BR-YouTube-Channels/blob/master/README.md)
 - [Geral](#geral)
 - [Linux](#linux)
