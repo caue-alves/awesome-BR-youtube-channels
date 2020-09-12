@@ -2,6 +2,9 @@
 
 
 [![Brazilian](https://img.shields.io/badge/Made%20By-Brazilians-brightgreen?style=for-the-badge&logo=appveyor?logo=data:img/png;https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png)](https://github.com/caue-alves/Awesome-BR-YouTube-Channels/blob/master/README.md)
+
+# Índice:
+
 - [Geral](#geral)
 - [Linux](#linux)
 - [Machine Leraning e Algoritmos](#machine-leraning-e-algoritmos)
