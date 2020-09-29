@@ -3,23 +3,23 @@
 
 [![Brazilian](https://img.shields.io/badge/Made%20By-Brazilians-brightgreen?style=for-the-badge&logo=appveyor?logo=data:img/png;https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png)](https://github.com/caue-alves/Awesome-BR-YouTube-Channels/blob/master/README.md)
 
-> Uma lista de canais incríveis feitos por Brasileiros
+> A curated list about awesome Tech channels made by Brazilian
 
-# Índice:
+# Index:
 
-- [Geral](#geral)
+- [General](#general)
 - [Linux](#linux)
-- [Machine Leraning e Algoritmos](#machine-leraning-e-algoritmos)
+- [Machine Leraning & Algorithms](#machine-leraning-&-algorithms)
 - [Hacking](#machine-leraning-e-algoritmos)
-- [Desenvolvimento de Jogos](#desenvolvimento-de-jogos)
-- [Reviews de Hardware](#reviews-de-hardware)
-- [Negócios e Agile Thinking](#negócios-e-agile-thinking)
+- [Game Developement](#game-developement)
+- [Hardware Reviews](#hardware-reviews)
+- [Agile Thinking](#agile-thinking)
 - [Front End](#front-end)
 - [PHP](#php)
 - [Python](#python)
 
 
-# Geral
+# General
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) - Dicas de Programação para iniciantes e conteúde de desenvolvimento
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv)- Conhecimentos gerais sobre os mais diversos conteúdos da tecnologia
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)- Dia a dia de um programador e bate-papos sobre o futuro da tecnologia
@@ -37,7 +37,7 @@
 - [Canal O Cara do TI](https://www.youtube.com/channel/UC-tBOOUXK8YjTQ6k6IPN9Lg) - Linux e outros conceitos
 - [LINUXtips](https://www.youtube.com/channel/UCJnKVGmXRXrH49Tvrx5X0Sw) - Dicas de Linux
 
-# Machine Leraning e Algoritmos
+# Machine Leraning & Algorithms
 - [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - Construcão de algoritmos incríveis para os mais diversos fins
 - [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel) - Algoritmos e Data Science
 
@@ -48,18 +48,18 @@
 - [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Conceitos do Framework Flutter
 - [Gabul DEV](https://www.youtube.com/channel/UC13gar1iS-icxHq7wEQLPaQ) - Flutter e conceitos gerais sobre o programador
 
-# Desenvolvimento de Jogos
+# Game Developement
 - [Renzk](https://www.youtube.com/channel/UCjh-a_yuBwvhkiltrWrucjg) - Desenvolvimento de Jogos com humor
 - [Proxy Gamedev](https://www.youtube.com/channel/UCzP7vf7gMGPOChM7BPFoGMg) - Desenvolvimento de Jogos
 
-# Reviews de Hardware
+# Hardware Reviews
 - [Canaltech](https://www.youtube.com/channel/UC_bXJnsgwOqEPA_-6N6faKw) - Reviews de Produtos Eletrônicos
 - [TechTudo](https://www.youtube.com/channel/UC_bXJnsgwOqEPA_-6N6faKw) - Videogames, celulares e tecnologia no Geral
 - [Gesiel Taveira](https://www.youtube.com/user/GesielTaveira) - Reviews de Samartphones
 - [Gabriel De Pinho](https://www.youtube.com/channel/UCBqoA_hedJJaOBhsVLy1GAg) - Reviews e outros sobre Hardware
 - [TechnoArt](https://www.youtube.com/channel/UCHUhlZy-CbS0-YvPQ5yBRIQ) - Reviews de PCs e seus periféricos
 
-# Negócios e Agile Thinking
+# Agile Thinking
 - [Digital Job](https://www.youtube.com/channel/UC629vKGFPRc1rz6VDm6OZiQ) - Carreira e empreendendorismo
 
 # Front End
