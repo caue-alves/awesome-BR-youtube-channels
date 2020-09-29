@@ -9,7 +9,7 @@
 
 - [General](#general)
 - [Linux](#linux)
-- [Machine Leraning & Algorithms](#machine-leraning-&-algorithms)
+- [Machine Leraning & Algorithms](#machine-leraning--algorithms)
 - [Hacking](#machine-leraning-e-algoritmos)
 - [Game Developement](#game-developement)
 - [Hardware Reviews](#hardware-reviews)
